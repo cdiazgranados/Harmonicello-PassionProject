@@ -10,7 +10,7 @@ import java.util.Objects;
 @Entity(name = "presets")
 public class Preset {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
     private String title;
     private Integer hertz;
