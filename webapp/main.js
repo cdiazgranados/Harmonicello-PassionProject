@@ -99,8 +99,8 @@ function makeGrid(f) {
   let string4 = (string3 * (4 / 3)) / 2;
 
   if (instrument == "cello") {
-    string2 = f / 2;
-    string1 = string2 * (3 / 2);
+    string1 = f/2;
+    string2 = (string1 * (4 / 3)) / 2;
     string3 = (string2 * (4 / 3)) / 2;
     string4 = (string3 * (4 / 3)) / 2;
     console.log("makeGrid cello");
