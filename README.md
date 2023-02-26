@@ -1,3 +1,4 @@
+# Harmonicello
 “The history of harmony is the history of the development of the human ear, which has gradually assimilated,
 in their natural order, the successive intervals of the harmonic series” -Nadia Boulanger
 
@@ -19,3 +20,5 @@ from a practice tool to a fun online synthesizer. Users will have the ability to
 again, spending less time configuring and more time playing.
 
 Harmonicello uses Javascript, Java, Spring, and mySQL DB and the Web Audio API.
+# View Harmonicello
+<img width="1440" alt="harmonicello-view" src="https://user-images.githubusercontent.com/71400942/211226399-73f4244f-9403-472f-b18a-d0ba60a8927e.png">
