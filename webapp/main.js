@@ -93,6 +93,7 @@ function makeString(f) {
 }
 
 function makeGrid(f) {
+  //viola
   let string1 = f;
   let string2 = (string1 * (4 / 3)) / 2;
   let string3 = (string2 * (4 / 3)) / 2;
